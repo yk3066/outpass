@@ -1,10 +1,10 @@
 # outpass
 
-A new Flutter project.
+An Outpass App Designed as part of the VeloHack
 
-## Getting Started
+## Disclaimer
 
-This project is a starting point for a Flutter application.
+This is not a fully working and completed app, It is a pseudo completed UI
 
 A few resources to get you started if this is your first Flutter project:
 
